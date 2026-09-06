@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Danh sách bài</title>
+</head>
+<body>
+  <a href="Bai1.html">Bai 1</a><br>
+  <a href="Bai2.html">Bai 2</a>
+</body>
+</html>
